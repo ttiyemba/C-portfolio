@@ -1,0 +1,10 @@
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/bin/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.deps.json
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/bin/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.runtimeconfig.json
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/bin/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.runtimeconfig.dev.json
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/bin/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.dll
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/bin/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.pdb
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/obj/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.csprojAssemblyReference.cache
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/obj/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.AssemblyInfoInputs.cache
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/obj/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.AssemblyInfo.cs
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/obj/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.dll
+/Users/tap/Desktop/c#/C-portfolio/Split a String in Balanced Strings/Split-a-String-in-Balanced-Strings/Split-a-String-in-Balanced-Strings/obj/Debug/netcoreapp3.1/Split-a-String-in-Balanced-Strings.pdb
