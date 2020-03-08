@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{650E7A85-36E7-4E90-B350-FAFE6D2912A7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Split-a-String-in-Balanced-Strings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Split-a-String-in-Balanced-Strings/Program.cs">
+    <Files>
+      <File FileName="Split-a-String-in-Balanced-Strings/Program.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Split-a-String-in-Balanced-Strings" expanded="True">
+            <Node name="Split-a-String-in-Balanced-Strings" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
