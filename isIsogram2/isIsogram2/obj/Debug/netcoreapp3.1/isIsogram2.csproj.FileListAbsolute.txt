@@ -1,0 +1,10 @@
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/bin/Debug/netcoreapp3.1/isIsogram2.deps.json
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/bin/Debug/netcoreapp3.1/isIsogram2.runtimeconfig.json
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/bin/Debug/netcoreapp3.1/isIsogram2.runtimeconfig.dev.json
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/bin/Debug/netcoreapp3.1/isIsogram2.dll
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/bin/Debug/netcoreapp3.1/isIsogram2.pdb
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/obj/Debug/netcoreapp3.1/isIsogram2.csprojAssemblyReference.cache
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/obj/Debug/netcoreapp3.1/isIsogram2.AssemblyInfoInputs.cache
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/obj/Debug/netcoreapp3.1/isIsogram2.AssemblyInfo.cs
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/obj/Debug/netcoreapp3.1/isIsogram2.dll
+/Users/tap/c#/C-portfolio/isIsogram2/isIsogram2/obj/Debug/netcoreapp3.1/isIsogram2.pdb
