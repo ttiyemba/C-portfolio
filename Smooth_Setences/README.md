@@ -1,3 +1,11 @@
 # Smooth setence
 
-An isogram is a word that has no repeating letters, consecutive or nonconsecutive. Create a function that takes a string and returns either true or false depending on whether or not it's an "isogram".
+Carlos is a huge fan of something he calls smooth sentences. A smooth sentence is one where the last letter of each word is identical to the first letter the following word.
+
+To illustrate, the following would be a smooth sentence: "Carlos swam masterfully."
+
+Since "Carlos" ends with an "s" and swam begins with an "s" and swam ends with an "m" and masterfully begins with an "m".
+
+ 
+
+The function should return true or false
