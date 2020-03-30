@@ -14,6 +14,7 @@ namespace rhymeTime
         static bool DoesRyhme(string a, string b )
 
         {
+            //using regex to replace all special characters
             string aFormatted = Regex.Replace(a,@"[^0-9a-zA-Z:,]+","");
             string bFormatted = Regex.Replace(b,@"[^0-9a-zA-Z:,]+","");
 
@@ -28,7 +29,7 @@ namespace rhymeTime
 
             for (int i = 0; i < maxLength; i++)
             {
-                //using regex to replace all special characters
+                //to lowercase and removing all spaces
                 s1 = aFormatted.Replace(" ","").ToLower().ToCharArray();
                 s2 = bFormatted.Replace(" ","").ToLower().ToCharArray();
                 
@@ -49,7 +50,7 @@ namespace rhymeTime
                 }
             }
 
-            //if  count is bigger than 3 I consider it to rhyme
+            //if  count is bigger than 2 I consider it to rhyme
 
             if(count >=2){
 
