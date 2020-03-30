@@ -32,8 +32,7 @@ namespace rhymeTime
                 s1 = aFormatted.Replace(" ","").ToLower().ToCharArray();
                 s2 = bFormatted.Replace(" ","").ToLower().ToCharArray();
                 
-                //s1 = a.ToLower().Replace(" ", "").Split(',');
-                //s2 = b.ToLower().Replace(" ", "").Split(',');
+                /
             }
 
             //getting the length to use for my second loop 
@@ -62,10 +61,7 @@ namespace rhymeTime
 
 
             //returning the flag boolean
-            foreach (var item in s2)
-            {
-                System.Console.WriteLine(item);
-            }
+        
 
             return flag;
         }
