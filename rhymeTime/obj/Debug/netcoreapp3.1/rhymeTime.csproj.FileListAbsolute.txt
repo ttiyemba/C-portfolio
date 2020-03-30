@@ -1,0 +1,10 @@
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/bin/Debug/netcoreapp3.1/rhymeTime.deps.json
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/bin/Debug/netcoreapp3.1/rhymeTime.runtimeconfig.json
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/bin/Debug/netcoreapp3.1/rhymeTime.runtimeconfig.dev.json
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/bin/Debug/netcoreapp3.1/rhymeTime.dll
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/bin/Debug/netcoreapp3.1/rhymeTime.pdb
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/obj/Debug/netcoreapp3.1/rhymeTime.csprojAssemblyReference.cache
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/obj/Debug/netcoreapp3.1/rhymeTime.AssemblyInfoInputs.cache
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/obj/Debug/netcoreapp3.1/rhymeTime.AssemblyInfo.cs
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/obj/Debug/netcoreapp3.1/rhymeTime.dll
+/Users/tap/Desktop/c#/C-portfolio/rhymeTime/obj/Debug/netcoreapp3.1/rhymeTime.pdb
