@@ -1,0 +1,10 @@
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/obj/Debug/netcoreapp3.1/SockPairs.csprojAssemblyReference.cache
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/obj/Debug/netcoreapp3.1/SockPairs.AssemblyInfoInputs.cache
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/obj/Debug/netcoreapp3.1/SockPairs.AssemblyInfo.cs
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/bin/Debug/netcoreapp3.1/SockPairs.deps.json
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/bin/Debug/netcoreapp3.1/SockPairs.runtimeconfig.json
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/bin/Debug/netcoreapp3.1/SockPairs.runtimeconfig.dev.json
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/bin/Debug/netcoreapp3.1/SockPairs.dll
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/bin/Debug/netcoreapp3.1/SockPairs.pdb
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/obj/Debug/netcoreapp3.1/SockPairs.dll
+/Users/tap/Desktop/c#/C-portfolio/SockPairs/obj/Debug/netcoreapp3.1/SockPairs.pdb
