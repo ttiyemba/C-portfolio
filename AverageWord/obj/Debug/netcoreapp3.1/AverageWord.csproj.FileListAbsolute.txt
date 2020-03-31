@@ -1,0 +1,10 @@
+/Users/tap/c#/C-portfolio/AverageWord/bin/Debug/netcoreapp3.1/AverageWord.deps.json
+/Users/tap/c#/C-portfolio/AverageWord/bin/Debug/netcoreapp3.1/AverageWord.runtimeconfig.json
+/Users/tap/c#/C-portfolio/AverageWord/bin/Debug/netcoreapp3.1/AverageWord.runtimeconfig.dev.json
+/Users/tap/c#/C-portfolio/AverageWord/bin/Debug/netcoreapp3.1/AverageWord.dll
+/Users/tap/c#/C-portfolio/AverageWord/bin/Debug/netcoreapp3.1/AverageWord.pdb
+/Users/tap/c#/C-portfolio/AverageWord/obj/Debug/netcoreapp3.1/AverageWord.csprojAssemblyReference.cache
+/Users/tap/c#/C-portfolio/AverageWord/obj/Debug/netcoreapp3.1/AverageWord.AssemblyInfoInputs.cache
+/Users/tap/c#/C-portfolio/AverageWord/obj/Debug/netcoreapp3.1/AverageWord.AssemblyInfo.cs
+/Users/tap/c#/C-portfolio/AverageWord/obj/Debug/netcoreapp3.1/AverageWord.dll
+/Users/tap/c#/C-portfolio/AverageWord/obj/Debug/netcoreapp3.1/AverageWord.pdb
