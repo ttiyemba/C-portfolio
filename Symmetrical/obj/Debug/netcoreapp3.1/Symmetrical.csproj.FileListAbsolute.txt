@@ -1,0 +1,10 @@
+/Users/tap/c#/C-portfolio/Symmetrical/obj/Debug/netcoreapp3.1/Symmetrical.csprojAssemblyReference.cache
+/Users/tap/c#/C-portfolio/Symmetrical/obj/Debug/netcoreapp3.1/Symmetrical.AssemblyInfoInputs.cache
+/Users/tap/c#/C-portfolio/Symmetrical/obj/Debug/netcoreapp3.1/Symmetrical.AssemblyInfo.cs
+/Users/tap/c#/C-portfolio/Symmetrical/bin/Debug/netcoreapp3.1/Symmetrical.deps.json
+/Users/tap/c#/C-portfolio/Symmetrical/bin/Debug/netcoreapp3.1/Symmetrical.runtimeconfig.json
+/Users/tap/c#/C-portfolio/Symmetrical/bin/Debug/netcoreapp3.1/Symmetrical.runtimeconfig.dev.json
+/Users/tap/c#/C-portfolio/Symmetrical/bin/Debug/netcoreapp3.1/Symmetrical.dll
+/Users/tap/c#/C-portfolio/Symmetrical/bin/Debug/netcoreapp3.1/Symmetrical.pdb
+/Users/tap/c#/C-portfolio/Symmetrical/obj/Debug/netcoreapp3.1/Symmetrical.dll
+/Users/tap/c#/C-portfolio/Symmetrical/obj/Debug/netcoreapp3.1/Symmetrical.pdb
